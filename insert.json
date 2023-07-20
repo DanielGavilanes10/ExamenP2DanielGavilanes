@@ -1,0 +1,48 @@
+//empresa
+{
+  "ruc": "123456789",
+  "razonSocial": "Empresa Ejemplo",
+  "cuentaPrincipal": "Cuenta Principal Ejemplo",
+  "empleados": [
+    {
+      "cedula": "12345678",
+      "apellidos": "Apellido1",
+      "nombres": "Nombre1",
+      "numeroDeCuenta": "Cuenta1"
+    },
+    {
+      "cedula": "87654321",
+      "apellidos": "Apellido2",
+      "nombres": "Nombre2",
+      "numeroDeCuenta": "Cuenta2"
+    }
+  ]
+}
+
+//pago
+{
+  "mes": "Julio",
+  "fechaProceso": "2023-07-05",
+  "rucEmpresa": "123456789",
+  "cuentaPrincipal": "Cuenta Principal Ejemplo",
+  "empleadosPagos": [
+    {
+      "numeroCuenta": "Cuenta1",
+      "valor": 1500.00
+    },
+    {
+      "numeroCuenta": "Cuenta2",
+      "valor": 2000.00
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
