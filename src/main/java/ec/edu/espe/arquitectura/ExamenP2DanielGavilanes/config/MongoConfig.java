@@ -1,4 +1,4 @@
-package ec.edu.espe.arquitectura.config;
+package ec.edu.espe.arquitectura.ExamenP2DanielGavilanes.config;
 import java.math.BigDecimal;
 import java.util.Arrays;
 
